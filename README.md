@@ -1,3 +1,3 @@
 # Python snippets
 
-This repository contains small concepts of Python code. 
+Welcome to Python Snippets! This repository contains small Python codes. Each Python code is coded for the development of my Python skills.
