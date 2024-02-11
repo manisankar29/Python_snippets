@@ -8,4 +8,4 @@ An Email Slicer is a program that extract the username and the domain name from 
 
 ## Snippet 2: [Number to Words](Number_to_words.py)
 
-The Number to Words is a program which convert number to words using [inflect](https://pypi.org/project/inflect/) library. The `infelct` library is a powerful tool used for manipulating words. It is used to correctly generate plurals, singular nouns, ordinals, indefinite articles.
+The Number to Words is a program which convert number to words using [inflect](https://pypi.org/project/inflect/) library. The `inflect` library is a powerful tool used for manipulating words. It is used to correctly generate plurals, singular nouns, ordinals, indefinite articles.
