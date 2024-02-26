@@ -15,3 +15,5 @@ The Number to Words is a program which convert number to words using [inflect](h
 The Google Image Downloader is a program which downloads google images directly using image URLs. This Python script utilizes the [requests](https://pypi.org/project/requests/) library to download images from a given Google Image URL and [Pillow](https://pypi.org/project/pillow/) library is used for image processing.
 
 ## Snippet 4: [Contact List](Contact_list.py)
+
+The Contact list is a program which allows users to allow do operations such as adding new contacts, viewing existing contacts, and searching contact. This python script holds the entered data until the runtime and later it will be vanished.
